@@ -1,17 +1,17 @@
 ### Comptetitive Programming Solutions
 Solutions for miscellaneous contests ranging from CCC, CCO, and DWITE to the likes of CCCHK, DMOPC, and Uncategorized problems
 
-# Online Judge
+# Online Judges:
 * [DMOJ](https://dmoj.ca/)
 * [WCIPEG](https://wcipeg.com/main)
 
-# Handle
+# Handle:
 > [devarshi](https://dmoj.ca/user/devarshi)
 
-# Languages
+# Languages:
 * Java
 * Python
 * Dash of C++
 
-# Props
+# Props -
 > This solutions library was inspired by that of [magicalsoup](https://github.com/magicalsoup)'s

@@ -1,4 +1,7 @@
+//CCC '00 S1 - Slot Machines
+
 import java.util.Scanner;
+
 
 public class ccc00s1_slot_machines {
 	public static void main(String[] args) {
@@ -52,6 +55,6 @@ public class ccc00s1_slot_machines {
 		}
 		
 		System.out.printf("Martha plays %d times before going broke.", val);
-        sc.close();
+        	sc.close();
     }
 }

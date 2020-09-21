@@ -53,8 +53,8 @@ public class ccc00s1_slot_machines {
 				z = 0;
 			}	
 		}
+	
 		
 		System.out.printf("Martha plays %d times before going broke.", val);
-        sc.close();
     }
 }

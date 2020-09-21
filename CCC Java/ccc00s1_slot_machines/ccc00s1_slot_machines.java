@@ -55,6 +55,6 @@ public class ccc00s1_slot_machines {
 		}
 		
 		System.out.printf("Martha plays %d times before going broke.", val);
-        	sc.close();
+        sc.close();
     }
 }

@@ -4,7 +4,7 @@ a = str(input()).lower()
 b = str(input()).lower()
 
 
-if(sorted(a) == sorted(b)):
+if sorted(a) == sorted(b):
     print("Is an anagram.")
 else:
     print("Is not an anagram.")

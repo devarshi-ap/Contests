@@ -1,24 +1,20 @@
-x = 3
-y = 3
-ta = 0
-tb = 0
+# CCC '19 J1 - Winning Score
 
-#total points for Apples (input: 3s, 2s, 1s)
+a, b = 0,0
+fa, fb = 3,3
+
 for i in range(3):
-    pa = int(input())
-    ta += pa * x
-    x -= 1
+    a += int(input()) * fa
+    fa -= 1
 
-#total points for Bananas
 for i in range(3):
-    pb = int(input())
-    tb += pb * y
-    y -= 1
+    b += int(input()) * fb
+    fb -= 1
 
-#compares points and returns winner
-if ta > tb:
-    print ("A")
-elif tb > ta:
-    print ("B")
+
+if a > b:
+    print("A")
+elif a == b:
+    print("T")
 else:
-    print ("T")
+    print("B")
